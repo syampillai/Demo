@@ -37,7 +37,7 @@ public class Demo extends Application {
     private static class SimpleLayout extends ApplicationFrame {
 
         public SimpleLayout() {
-            setCaption("SO Demo - Ver 2.5");
+            setCaption("SO Demo - Ver 2.6");
         }
 
         @Override
