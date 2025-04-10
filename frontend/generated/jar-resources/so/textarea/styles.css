@@ -1,0 +1,11 @@
+:host(.uppercase) ::slotted(textarea) {
+    text-transform: uppercase;
+}
+
+:host(.lowercase) ::slotted(textarea) {
+    text-transform: lowercase;
+}
+
+:host(.capitalize) ::slotted(textarea) {
+    text-transform: capitalize;
+}

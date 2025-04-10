@@ -1,0 +1,11 @@
+:host(.uppercase) ::slotted(input) {
+    text-transform: uppercase;
+}
+
+:host(.lowercase) ::slotted(input) {
+    text-transform: lowercase;
+}
+
+:host(.capitalize) ::slotted(input) {
+    text-transform: capitalize;
+}

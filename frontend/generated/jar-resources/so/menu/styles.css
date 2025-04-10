@@ -1,0 +1,27 @@
+.so-menu, .so-menu-active, .so-menu-hilite {
+    display: flex;
+    font-size: var(--lumo-font-size-s);
+    tabindex: -1;
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: var(--so-menu-border-color, var(--lumo-contrast-20pct));
+    border-style: solid;
+    background: var(--so-menu-background, var(--lumo-base-color));
+}
+
+.so-menu:hover {
+    background: var(--so-menu-hover-background, var(--lumo-primary-color-50pct));
+    color: var(--so-menu-hover-color, var(--lumo-primary-contrast-color));
+}
+
+.so-menu-active {
+    background: var(--so-menu-active-background, var(--lumo-primary-contrast-color));
+    color: var(--so-menu-active-color, var(--lumo-primary-text-color));
+}
+
+.so-menu-hilite {
+    background: var(--so-menu-hilite-background, var(--lumo-primary-color));
+    color: var(--so-menu-hilite-color, var(--lumo-primary-contrast-color));
+}
