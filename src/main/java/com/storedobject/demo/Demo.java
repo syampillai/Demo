@@ -1,9 +1,6 @@
 package com.storedobject.demo;
 
 import com.storedobject.vaadin.*;
-import com.vaadin.flow.component.page.AppShellConfigurator;
-import com.vaadin.flow.component.page.BodySize;
-import com.vaadin.flow.router.PreserveOnRefresh;
 import com.vaadin.flow.router.Route;
 
 public class Demo extends Application {
