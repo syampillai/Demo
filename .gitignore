@@ -1,3 +1,4 @@
 # Project exclude paths
 /target/
 /frontend/
+/node_modules/
