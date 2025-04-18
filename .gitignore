@@ -2,3 +2,5 @@
 /target/
 /frontend/
 /node_modules/
+/src/main/frontend/
+/src/main/bundles/
