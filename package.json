@@ -78,9 +78,6 @@
     "date-fns": "2.29.3",
     "google-libphonenumber": "3.2.32",
     "lit": "3.2.1",
-    "react": "18.3.1",
-    "react-dom": "18.3.1",
-    "react-router": "7.2.0",
     "resize-observer-polyfill": "1.5.1"
   },
   "devDependencies": {
@@ -88,8 +85,6 @@
     "@preact/signals-react-transform": "0.5.1",
     "@rollup/plugin-replace": "6.0.2",
     "@rollup/pluginutils": "5.1.4",
-    "@types/react": "18.3.20",
-    "@types/react-dom": "18.3.6",
     "@vitejs/plugin-react": "4.3.4",
     "async": "3.2.6",
     "glob": "11.0.1",
@@ -181,9 +176,6 @@
       "date-fns": "2.29.3",
       "google-libphonenumber": "3.2.32",
       "lit": "3.2.1",
-      "react": "18.3.1",
-      "react-dom": "18.3.1",
-      "react-router": "7.2.0",
       "resize-observer-polyfill": "1.5.1"
     },
     "devDependencies": {
@@ -191,8 +183,6 @@
       "@preact/signals-react-transform": "0.5.1",
       "@rollup/plugin-replace": "6.0.2",
       "@rollup/pluginutils": "5.1.4",
-      "@types/react": "18.3.20",
-      "@types/react-dom": "18.3.6",
       "@vitejs/plugin-react": "4.3.4",
       "async": "3.2.6",
       "glob": "11.0.1",
@@ -207,7 +197,7 @@
       "workbox-core": "7.3.0",
       "workbox-precaching": "7.3.0"
     },
-    "hash": "1be2a86597e2dc753b5ef186a522f16e11fb01215f8bebcc982f5636438c91a9"
+    "hash": "f6bce05c2605807b72f02330e5e874ed747ad05ac219822427584c575a0f91cd"
   },
   "overrides": {
     "@vaadin/bundles": "$@vaadin/bundles",
@@ -215,12 +205,9 @@
     "@vaadin/vaadin-development-mode-detector": "$@vaadin/vaadin-development-mode-detector",
     "@vaadin/vaadin-usage-statistics": "$@vaadin/vaadin-usage-statistics",
     "@vaadin/common-frontend": "$@vaadin/common-frontend",
-    "react-dom": "$react-dom",
     "construct-style-sheets-polyfill": "$construct-style-sheets-polyfill",
     "lit": "$lit",
     "@polymer/polymer": "$@polymer/polymer",
-    "react": "$react",
-    "react-router": "$react-router",
     "resize-observer-polyfill": "$resize-observer-polyfill",
     "@polymer/paper-toggle-button": "$@polymer/paper-toggle-button",
     "@polymer/iron-icons": "$@polymer/iron-icons",
